@@ -1,0 +1,10 @@
+Package: com.billyellis.cmds
+Name: Cmds
+Depends: 
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Billy Ellis
+Author: Billy Ellis
+Section: Utilities
+Version: 0.0.1-7
+Installed-Size: 152
